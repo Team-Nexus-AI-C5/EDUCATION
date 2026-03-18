@@ -1,4 +1,4 @@
-# 🎓 AARIS-Lite™
+#  AARIS-Lite™
 
 
 
@@ -11,11 +11,11 @@ Capstone Project – Intelligent Academic Analytics Platform for African Univers
 
 
 
----
 
 
 
-## 📌 Project Overview
+
+##  Project Overview
 
 
 
@@ -23,15 +23,15 @@ AARIS-Lite™ is an AI-powered academic analytics platform designed to assist un
 
 
 
-- Automating GPA and CGPA computation
+ Automating GPA and CGPA computation
 
-- Predicting student academic performance
+ Predicting student academic performance
 
-- Detecting anomalies in academic records
+ Detecting anomalies in academic records
 
-- Generating intelligent academic recommendations
+ Generating intelligent academic recommendations
 
-- Producing downloadable student reports
+ Producing downloadable student reports
 
 
 
@@ -39,11 +39,11 @@ This project demonstrates how machine learning can improve academic record manag
 
 
 
----
 
 
 
-## 🚀 Core Features
+
+##  Core Features
 
 
 
@@ -67,11 +67,11 @@ This project demonstrates how machine learning can improve academic record manag
 
 
 
----
 
 
 
-## 🧠 Machine Learning Models
+
+##  Machine Learning Models
 
 
 
@@ -81,7 +81,7 @@ The system uses three machine learning models:
 
 | Model | Purpose |
 
-|------|------|
+
 
 | Linear Regression | Predicts student GPA |
 
@@ -105,47 +105,34 @@ anomaly_model.pkl
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 
 
 AARIS-Lite
 
-│
 
-├── app
 
-│   ├── app.py
+app
+ app.py
 
-│   ├── regression_model.pkl
+regression_model.pkl
+classifier_model.pkl
+anomaly_model.pkl
+requirements.txt
+src model_training.py
 
-│   ├── classifier_model.pkl
 
-│   ├── anomaly_model.pkl
+ notebook
+model_training.ipynb
 
-│   ├── requirements.txt
-
-│
-
-├── src
-
-│   └── model_training.py
-
-│
-
-├── notebook
-
-│   └── model_training.ipynb
-
-│
-
-└── README.md
+README.md
 
 
 
 
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 
 
@@ -165,11 +152,10 @@ AARIS-Lite
 
 
 
----
 
 
 
-## 📊 System Capabilities
+##  System Capabilities
 
 
 
@@ -189,11 +175,10 @@ AARIS-Lite™ enables:
 
 
 
----
 
 
 
-## 📄 Sample Output
+##  Sample Output
 
 
 
@@ -213,11 +198,8 @@ The system generates **downloadable academic reports** containing:
 
 
 
----
 
-
-
-## 👨‍🎓 Capstone Project
+##  Capstone Project
 
 
 
